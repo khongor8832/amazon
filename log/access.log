@@ -1,0 +1,6 @@
+::1 - - [25/Jan/2021:01:09:27 +0000] "GET /api/v1/categories HTTP/1.1" 200 86 "-" "PostmanRuntime/7.26.8"
+::1 - - [25/Jan/2021:01:09:35 +0000] "GET /api/v1/categories/ HTTP/1.1" 200 86 "-" "PostmanRuntime/7.26.8"
+::1 - - [25/Jan/2021:01:09:44 +0000] "GET /api/v1/categories/12 HTTP/1.1" 200 89 "-" "PostmanRuntime/7.26.8"
+::1 - - [25/Jan/2021:01:20:56 +0000] "POST /api/v1/categories HTTP/1.1" 200 73 "-" "PostmanRuntime/7.26.8"
+::1 - - [25/Jan/2021:02:22:05 +0000] "POST /api/v1/categories HTTP/1.1" 200 73 "-" "PostmanRuntime/7.26.8"
+::1 - - [25/Jan/2021:02:39:56 +0000] "POST /api/v1/categories HTTP/1.1" 200 73 "-" "PostmanRuntime/7.26.8"
